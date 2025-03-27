@@ -1,0 +1,5 @@
+{
+  "groups": ["one","two"],
+  "toggles": ["one","two"],
+  "userFeatures": ["one","two"]
+}
